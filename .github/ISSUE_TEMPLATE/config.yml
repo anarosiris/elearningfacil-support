@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Free plugins: open the issue in the plugin's own repository · Plugins gratuitos: abre la incidencia en su propio repositorio"
+    url: https://github.com/anarosiris/elearningfacil-support#free-plugins-for-moodle
+    about: "Direct SCORM player, Active Time Clock and My progress have their own trackers · Tienen su propio tracker"
+  - name: "Licensed customers: direct support · Clientes con licencia: soporte directo"
+    url: https://elearningfacil.com
+    about: "Direct support under your purchase terms · Soporte directo según tus términos de compra"

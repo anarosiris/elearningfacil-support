@@ -1,0 +1,27 @@
+name: "💡 Feature request · Mejora"
+description: "An idea you would like to see · Una idea que te gustaría ver"
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: "Plugin"
+      options:
+        - "Class Manager · Gestor de Aula (local_efclassmanager)"
+        - "Bulk certificate manager · Gestor masivo de certificados (local_efbulkcert)"
+        - "Pack Formación Bonificada Pro: local_efreport"
+        - "Pack Formación Bonificada Pro: local_efcomms"
+        - "Pack Formación Bonificada Pro: local_efdossier"
+        - "Pack Formación Bonificada Pro: local_efalerts"
+        - "Pack Formación Bonificada Pro: local_efready"
+        - "Pack Formación Bonificada Pro: block_eflinks"
+        - "Pack Formación Bonificada Pro: availability_eftime"
+        - "Pack Formación Bonificada Pro: availability_efreq"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: "What you propose and what problem it solves · Qué propones y qué problema resuelve"
+    validations:
+      required: true

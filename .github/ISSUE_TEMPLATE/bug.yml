@@ -1,0 +1,46 @@
+name: "🐛 Bug · Error"
+description: "Something is not working as expected · Algo no funciona como debería"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not post passwords, personal data of students or your site's private URLs.** This tracker is public.
+        **No publiques contraseñas, datos personales de alumnos ni direcciones privadas de tu sitio.** Este tracker es público.
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: "Affected plugin · Plugin afectado"
+      options:
+        - "Class Manager · Gestor de Aula (local_efclassmanager)"
+        - "Bulk certificate manager · Gestor masivo de certificados (local_efbulkcert)"
+        - "Pack Formación Bonificada Pro: local_efreport"
+        - "Pack Formación Bonificada Pro: local_efcomms"
+        - "Pack Formación Bonificada Pro: local_efdossier"
+        - "Pack Formación Bonificada Pro: local_efalerts"
+        - "Pack Formación Bonificada Pro: local_efready"
+        - "Pack Formación Bonificada Pro: block_eflinks"
+        - "Pack Formación Bonificada Pro: availability_eftime"
+        - "Pack Formación Bonificada Pro: availability_efreq"
+        - "Other / not sure · Otro / no sé"
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: "Plugin and Moodle™ version · Versión del plugin y de Moodle™"
+      placeholder: "e.g. · p. ej. Class Manager 0.22.3, Moodle 5.2"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "What happens · Qué ocurre"
+      description: "Steps to reproduce, what you expected and what happens instead · Pasos para reproducirlo, qué esperabas y qué pasa en su lugar"
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Screenshots or error messages · Capturas o mensajes de error"
+      description: "Optional but very helpful (hide personal data) · Opcional pero muy útil (oculta los datos personales)"

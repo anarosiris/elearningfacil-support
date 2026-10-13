@@ -1,0 +1,34 @@
+name: "❓ Question · Pregunta"
+description: "Installation, configuration or usage · Instalación, configuración o uso"
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not post passwords, personal data of students or your site's private URLs.** This tracker is public.
+        **No publiques contraseñas, datos personales de alumnos ni direcciones privadas de tu sitio.** Este tracker es público.
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: "Plugin"
+      options:
+        - "Class Manager · Gestor de Aula (local_efclassmanager)"
+        - "Bulk certificate manager · Gestor masivo de certificados (local_efbulkcert)"
+        - "Pack Formación Bonificada Pro: local_efreport"
+        - "Pack Formación Bonificada Pro: local_efcomms"
+        - "Pack Formación Bonificada Pro: local_efdossier"
+        - "Pack Formación Bonificada Pro: local_efalerts"
+        - "Pack Formación Bonificada Pro: local_efready"
+        - "Pack Formación Bonificada Pro: block_eflinks"
+        - "Pack Formación Bonificada Pro: availability_eftime"
+        - "Pack Formación Bonificada Pro: availability_efreq"
+        - "General"
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: "Your question · Tu pregunta"
+      description: "Include your Moodle™ version if relevant · Incluye tu versión de Moodle™ si es relevante"
+    validations:
+      required: true
