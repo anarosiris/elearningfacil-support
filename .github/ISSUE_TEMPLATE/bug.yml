@@ -29,7 +29,7 @@ body:
     id: versions
     attributes:
       label: "Plugin and Moodle™ version · Versión del plugin y de Moodle™"
-      placeholder: "e.g. · p. ej. Class Manager 0.22.3, Moodle 5.2"
+      placeholder: "e.g. · p. ej. Class Manager 0.23.0, Moodle 5.2"
     validations:
       required: true
   - type: textarea
