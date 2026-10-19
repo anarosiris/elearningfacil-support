@@ -22,6 +22,11 @@ body:
         - "Pack Formación Bonificada Pro: block_eflinks"
         - "Pack Formación Bonificada Pro: availability_eftime"
         - "Pack Formación Bonificada Pro: availability_efreq"
+        - "Theme · Tema Voltage (theme_efvoltage)"
+        - "Theme · Tema Editorial (theme_efeditorial)"
+        - "Theme · Tema Arcade (theme_efarcade)"
+        - "Theme · Tema Paper (theme_efpaper)"
+        - "Theme · Tema Aurora Cards (theme_efauroracards)"
         - "Other / not sure · Otro / no sé"
     validations:
       required: true
@@ -29,7 +34,7 @@ body:
     id: versions
     attributes:
       label: "Plugin and Moodle™ version · Versión del plugin y de Moodle™"
-      placeholder: "e.g. · p. ej. Class Manager 0.23.0, Moodle 5.2"
+      placeholder: "e.g. · p. ej. Class Manager 0.23.0 or Voltage 1.0.0, Moodle 5.2"
     validations:
       required: true
   - type: textarea

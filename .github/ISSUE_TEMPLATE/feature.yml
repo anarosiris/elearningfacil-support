@@ -17,6 +17,11 @@ body:
         - "Pack Formación Bonificada Pro: block_eflinks"
         - "Pack Formación Bonificada Pro: availability_eftime"
         - "Pack Formación Bonificada Pro: availability_efreq"
+        - "Theme · Tema Voltage (theme_efvoltage)"
+        - "Theme · Tema Editorial (theme_efeditorial)"
+        - "Theme · Tema Arcade (theme_efarcade)"
+        - "Theme · Tema Paper (theme_efpaper)"
+        - "Theme · Tema Aurora Cards (theme_efauroracards)"
     validations:
       required: true
   - type: textarea
