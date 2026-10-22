@@ -41,9 +41,9 @@ These plugins and themes are free and open source. Each one has its own reposito
 | Plugin | What it does |
 |---|---|
 | [Direct SCORM player](https://github.com/anarosiris/moodle-local_efscorm) | Opens SCORM® packages straight away, full screen, with no intermediate page |
-| [Active Time Clock](https://github.com/anarosiris/moodle-local_eftimeclock) | Measures each student's active time on course activities |
-| [My progress](https://github.com/anarosiris/moodle-block_efprogress) | Shows each student their own progress in the course |
-| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) | A true dark theme for Moodle™ (Boost Union child), in black with teal glow |
+| **Active Time Clock** (repository coming soon) | Measures each student's active time on course activities |
+| **My progress** (repository coming soon) | Shows each student their own progress in the course |
+| **Neon Night** (repository coming soon) | A true dark theme for Moodle™ (Boost Union child), in black with teal glow |
 
 More at [elearningfacil.com](https://elearningfacil.com).
 
@@ -91,9 +91,9 @@ Estos plugins y temas son gratuitos y de código abierto. Cada uno tiene su prop
 | Plugin | Qué hace |
 |---|---|
 | [Reproductor SCORM directo](https://github.com/anarosiris/moodle-local_efscorm) | Abre los paquetes SCORM® directamente, a pantalla completa y sin página intermedia |
-| [Medidor de tiempo real](https://github.com/anarosiris/moodle-local_eftimeclock) | Mide el tiempo activo de cada estudiante en las actividades del curso |
-| [Mi progreso](https://github.com/anarosiris/moodle-block_efprogress) | Enseña a cada estudiante su propio progreso en el curso |
-| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) | Un tema oscuro de verdad para Moodle™ (hijo de Boost Union), en negro con brillo turquesa |
+| **Medidor de tiempo real** (repositorio próximamente) | Mide el tiempo activo de cada estudiante en las actividades del curso |
+| **Mi progreso** (repositorio próximamente) | Enseña a cada estudiante su propio progreso en el curso |
+| **Neon Night** (repositorio próximamente) | Un tema oscuro de verdad para Moodle™ (hijo de Boost Union), en negro con brillo turquesa |
 
 Más en [elearningfacil.com](https://elearningfacil.com).
 
