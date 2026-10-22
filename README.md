@@ -21,7 +21,7 @@ Union setting keeps working; the theme only changes the look.
 
 | Theme | Component | Documentation |
 |---|---|---|
-| **Voltage** — bold, high-contrast, built around the course | `theme_efvoltage` | README inside the package |
+| **Voltage** — bold, high-contrast, built around the course | `theme_efvoltage` | [Documentation](docs/themes/voltage.md) |
 | **Editorial** — newspaper layout, large type and a red rule | `theme_efeditorial` | README inside the package |
 | **Arcade** — 8-bit style with pixel accents | `theme_efarcade` | README inside the package |
 | **Paper** — sticky notes and handwriting on a desk | `theme_efpaper` | README inside the package |
@@ -70,7 +70,7 @@ ajustes de Boost Union siguen funcionando; el tema solo cambia el aspecto.
 
 | Tema | Componente | Documentación |
 |---|---|---|
-| **Voltage** — contundente, de alto contraste, centrado en el curso | `theme_efvoltage` | README dentro del paquete |
+| **Voltage** — contundente, de alto contraste, centrado en el curso | `theme_efvoltage` | [Documentación (en inglés)](docs/themes/voltage.md) |
 | **Editorial** — maqueta de periódico, letra grande y línea roja | `theme_efeditorial` | README dentro del paquete |
 | **Arcade** — estilo 8 bits con detalles en píxel | `theme_efarcade` | README dentro del paquete |
 | **Paper** — pósits y letra manuscrita sobre un escritorio | `theme_efpaper` | README dentro del paquete |
