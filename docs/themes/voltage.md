@@ -1,4 +1,4 @@
-# Voltage — Moodle™ theme (Boost Union child)
+# Voltage — Theme for Moodle™ (Boost Union child theme)
 
 Yellow and black, thick borders, hard shadows. It doesn't look like Moodle.
 
