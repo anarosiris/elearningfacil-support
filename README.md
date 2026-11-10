@@ -12,7 +12,15 @@ Public issue tracker and documentation for the **commercial plugins and themes f
 |---|---|---|
 | **Class Manager** — delegated sign-ups with seats under your control | `local_efclassmanager` | [English guide](docs/class-manager/Guide_local_efclassmanager_en.pdf) · [Spanish guide](docs/class-manager/Guia_local_efclassmanager.pdf) |
 | **Bulk certificate manager** — issue, download and revoke certificates in bulk | `local_efbulkcert` | Coming soon |
-| **Pack Formación Bonificada Pro** — suite for subsidised training in Spain (Spanish only) | `local_efreport`, `local_efcomms`, `local_efdossier`, `local_efalerts`, `local_efready`, `block_eflinks`, `availability_eftime`, `availability_efreq` | Delivered to customers |
+| **Training Evidence: Time, Activity & Evaluation Report** — real learning time, activity and assessment, ready for an audit | `local_efreport` | [English guide](docs/training-evidence-pack/Guide_local_efreport_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_local_efreport.pdf) |
+| **Training Evidence: Communications Report** — date-stamped proof of tutoring and messages | `local_efcomms` | [English guide](docs/training-evidence-pack/Guide_local_efcomms_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_local_efcomms.pdf) |
+| **Training Evidence: Group Dossier** — every report of a group in one archived file | `local_efdossier` | [English guide](docs/training-evidence-pack/Guide_local_efdossier_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_local_efdossier.pdf) |
+| **Training Evidence: Automatic Alerts** — automatic reminders for students who fall behind | `local_efalerts` | [English guide](docs/training-evidence-pack/Guide_local_efalerts_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_local_efalerts.pdf) |
+| **Training Evidence: Course Ready Check** — checks the course before it starts | `local_efready` | [English guide](docs/training-evidence-pack/Guide_local_efready_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_local_efready.pdf) |
+| **Training Evidence: Report Links** — every report one click away, by role | `block_eflinks` | [English guide](docs/training-evidence-pack/Guide_block_eflinks_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_block_eflinks.pdf) |
+| **Training Evidence: Time Restriction** — unlocks activities by real learning time (requires `local_efreport`) | `availability_eftime` | [English guide](docs/training-evidence-pack/Guide_availability_eftime_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_availability_eftime.pdf) |
+| **Training Evidence: Requirements Restriction** — unlocks activities by course requirements (requires `local_efreport`) | `availability_efreq` | [English guide](docs/training-evidence-pack/Guide_availability_efreq_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_availability_efreq.pdf) |
+| **Training Evidence: My Progress** — free: each student sees their own progress | `block_efprogress` | [English guide](docs/training-evidence-pack/Guide_block_efprogress_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_block_efprogress.pdf) |
 
 ## Themes covered here
 
@@ -61,7 +69,15 @@ Tracker público de incidencias y documentación de los **plugins y temas de pag
 |---|---|---|
 | **Gestor de Aula** — altas delegadas con las plazas bajo tu control | `local_efclassmanager` | [Guía en español](docs/class-manager/Guia_local_efclassmanager.pdf) · [Guía en inglés](docs/class-manager/Guide_local_efclassmanager_en.pdf) |
 | **Gestor masivo de certificados** — emite, descarga y revoca certificados en lote | `local_efbulkcert` | Próximamente |
-| **Pack Formación Bonificada Pro** — la suite para la formación bonificada | `local_efreport`, `local_efcomms`, `local_efdossier`, `local_efalerts`, `local_efready`, `block_eflinks`, `availability_eftime`, `availability_efreq` | Se entrega a cada cliente |
+| **Seguimiento de la Formación: Informe de tiempo, actividad y evaluación** — tiempo real, actividad y evaluación, listo para una inspección | `local_efreport` | [Guía en español](docs/training-evidence-pack/Guia_local_efreport.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_local_efreport_en.pdf) |
+| **Seguimiento de la Formación: Informe de comunicaciones** — la tutorización y los mensajes, con fecha y hora | `local_efcomms` | [Guía en español](docs/training-evidence-pack/Guia_local_efcomms.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_local_efcomms_en.pdf) |
+| **Seguimiento de la Formación: Dossier del grupo** — todos los informes de un grupo en un solo archivo | `local_efdossier` | [Guía en español](docs/training-evidence-pack/Guia_local_efdossier.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_local_efdossier_en.pdf) |
+| **Seguimiento de la Formación: Alertas automáticas** — avisos automáticos a los estudiantes que se retrasan | `local_efalerts` | [Guía en español](docs/training-evidence-pack/Guia_local_efalerts.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_local_efalerts_en.pdf) |
+| **Seguimiento de la Formación: Checklist del curso** — revisa el curso antes de que empiece | `local_efready` | [Guía en español](docs/training-evidence-pack/Guia_local_efready.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_local_efready_en.pdf) |
+| **Seguimiento de la Formación: Enlaces a los informes** — todos los informes a un clic, según el rol | `block_eflinks` | [Guía en español](docs/training-evidence-pack/Guia_block_eflinks.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_block_eflinks_en.pdf) |
+| **Seguimiento de la Formación: Restricción por tiempo** — abre actividades según el tiempo real (requiere `local_efreport`) | `availability_eftime` | [Guía en español](docs/training-evidence-pack/Guia_availability_eftime.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_availability_eftime_en.pdf) |
+| **Seguimiento de la Formación: Restricción por requisitos** — abre actividades según los requisitos del curso (requiere `local_efreport`) | `availability_efreq` | [Guía en español](docs/training-evidence-pack/Guia_availability_efreq.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_availability_efreq_en.pdf) |
+| **Seguimiento de la Formación: Mi progreso** — gratuito: cada estudiante ve su propio progreso | `block_efprogress` | [Guía en español](docs/training-evidence-pack/Guia_block_efprogress.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_block_efprogress_en.pdf) |
 
 ### Temas que se atienden aquí
 
@@ -79,7 +95,7 @@ ajustes de Boost Union siguen funcionando; el tema solo cambia el aspecto.
 ### Antes de abrir una incidencia
 
 - Indica la **versión del plugin y la de tu Moodle™**.
-- **No publiques nunca contraseñas, datos personales de alumnos ni direcciones privadas de tu sitio.** Este tracker
+- **No publiques nunca contraseñas, datos personales de estudiantes ni direcciones privadas de tu sitio.** Este tracker
   es público.
 - Si eres cliente con licencia, además tienes **soporte directo** en [elearningfacil.com](https://elearningfacil.com),
   según tus términos de compra.
@@ -99,8 +115,8 @@ Más en [elearningfacil.com](https://elearningfacil.com).
 
 ---
 
-Developed and maintained by eLearning Fácil (https://elearningfacil.com), an independent company that builds plugins
-for Moodle™ for training providers and companies. Not affiliated with Moodle Pty Ltd.
+Developed and maintained by eLearning Fácil (https://elearningfacil.com), an independent company that builds
+Moodle™ plugins and themes for training providers and companies. Not affiliated with Moodle Pty Ltd.
 
 Desarrollado y mantenido por eLearning Fácil (https://elearningfacil.com), una empresa independiente que crea plugins
 para Moodle™ para centros de formación y empresas. Sin vinculación con Moodle Pty Ltd.
