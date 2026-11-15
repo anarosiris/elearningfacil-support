@@ -22,7 +22,7 @@ Public issue tracker and documentation for the **commercial plugins and themes f
 | **Training Evidence: Requirements Restriction** — unlocks activities by course requirements (requires `local_efreport`) | `availability_efreq` | [Quick guide](docs/training-evidence-pack/QuickGuide_availability_efreq_en.pdf) · [Spanish quick guide](docs/training-evidence-pack/GuiaRapida_availability_efreq.pdf) |
 | **Training Evidence: My Progress** — free: each student sees their own progress | `block_efprogress` | [English guide](docs/training-evidence-pack/Guide_block_efprogress_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_block_efprogress.pdf) |
 
-Commercial plugins: the quick guide is public; customers receive the full user guide with their purchase.
+Commercial plugins: the quick guide is public; the full user guide (PDF) is included in the plugin package.
 
 ## Themes covered here
 
@@ -81,7 +81,7 @@ Tracker público de incidencias y documentación de los **plugins y temas de pag
 | **Seguimiento de la Formación: Restricción por requisitos** — abre actividades según los requisitos del curso (requiere `local_efreport`) | `availability_efreq` | [Guía rápida](docs/training-evidence-pack/GuiaRapida_availability_efreq.pdf) · [Guía rápida en inglés](docs/training-evidence-pack/QuickGuide_availability_efreq_en.pdf) |
 | **Seguimiento de la Formación: Mi progreso** — gratuito: cada estudiante ve su propio progreso | `block_efprogress` | [Guía en español](docs/training-evidence-pack/Guia_block_efprogress.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_block_efprogress_en.pdf) |
 
-Plugins de pago: la guía rápida es pública; la guía completa se entrega a los clientes con la compra.
+Plugins de pago: la guía rápida es pública; la guía completa (PDF) va dentro del paquete del plugin.
 
 ### Temas que se atienden aquí
 
