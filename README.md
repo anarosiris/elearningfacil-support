@@ -53,7 +53,7 @@ These plugins and themes are free and open source. Each one has its own reposito
 | [Direct SCORM player](https://github.com/anarosiris/moodle-local_efscorm) | Opens SCORM® packages straight away, full screen, with no intermediate page |
 | [Training Evidence: Time Clock](https://github.com/anarosiris/moodle-local_eftimeclock) | Measures each student's active time on course activities |
 | [Training Evidence: My Progress](https://github.com/anarosiris/moodle-block_efprogress) | Shows each student their own progress in the course |
-| **Neon Night** (repository coming soon) | A true dark theme for Moodle™ (Boost Union child), in black with teal glow |
+| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) ([documentation](docs/themes/neon-night.md)) | A true dark theme for Moodle™ (Boost Union child), in black with teal glow |
 
 More at [elearningfacil.com](https://elearningfacil.com).
 
@@ -113,7 +113,7 @@ Estos plugins y temas son gratuitos y de código abierto. Cada uno tiene su prop
 | [Reproductor SCORM directo](https://github.com/anarosiris/moodle-local_efscorm) | Abre los paquetes SCORM® directamente, a pantalla completa y sin página intermedia |
 | [Seguimiento de la Formación: Medidor de tiempo](https://github.com/anarosiris/moodle-local_eftimeclock) | Mide el tiempo activo de cada estudiante en las actividades del curso |
 | [Seguimiento de la Formación: Mi progreso](https://github.com/anarosiris/moodle-block_efprogress) | Enseña a cada estudiante su propio progreso en el curso |
-| **Neon Night** (repositorio próximamente) | Un tema oscuro de verdad para Moodle™ (hijo de Boost Union), en negro con brillo turquesa |
+| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) ([documentación](docs/themes/neon-night.md)) | Un tema oscuro de verdad para Moodle™ (hijo de Boost Union), en negro con brillo turquesa |
 
 Más en [elearningfacil.com](https://elearningfacil.com).
 
