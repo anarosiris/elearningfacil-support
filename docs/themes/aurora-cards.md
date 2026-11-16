@@ -27,6 +27,11 @@ replaces the look.
 
 The theme uses the system font stack: there are no fonts to upload.
 
+## User guide
+
+The full user guide, with screenshots, is in `docs/manual/` as a PDF:
+`Guide_theme_efauroracards_en.pdf` (English) and `Guia_theme_efauroracards.pdf` (Spanish).
+
 ## Customising
 
 Colours and the other design tokens are the variables at the top of

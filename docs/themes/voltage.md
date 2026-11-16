@@ -27,6 +27,11 @@ replaces the look.
 
 The fonts (Space Grotesk) are bundled with the theme (SIL Open Font License 1.1, see `fonts/` and `thirdpartylibs.xml`): there is nothing to upload.
 
+## User guide
+
+The full user guide, with screenshots, is in `docs/manual/` as a PDF:
+`Guide_theme_efvoltage_en.pdf` (English) and `Guia_theme_efvoltage.pdf` (Spanish).
+
 ## Customising
 
 Colours and the other design tokens are the variables at the top of
