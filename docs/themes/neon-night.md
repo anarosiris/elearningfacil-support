@@ -1,5 +1,7 @@
 # Neon Night — Theme for Moodle™ (Boost Union child theme)
 
+**Quick guide (PDF):** [English](QuickGuide_theme_efneonnight_en.pdf) · [Español](GuiaRapida_theme_efneonnight.pdf)
+
 A true dark theme: all of Moodle in black with a teal glow.
 
 Neon Night is a **child theme of Boost Union**. Every Boost Union setting and

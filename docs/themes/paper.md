@@ -1,5 +1,7 @@
 # Paper — Theme for Moodle™ (Boost Union child theme)
 
+**Quick guide (PDF):** [English](QuickGuide_theme_efpaper_en.pdf) · [Español](GuiaRapida_theme_efpaper.pdf)
+
 The course as a notebook: sticky notes, tape and hand-drawn icons.
 
 Paper is a **child theme of Boost Union**. Every Boost Union setting and

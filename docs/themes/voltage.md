@@ -1,5 +1,7 @@
 # Voltage — Theme for Moodle™ (Boost Union child theme)
 
+**Quick guide (PDF):** [English](QuickGuide_theme_efvoltage_en.pdf) · [Español](GuiaRapida_theme_efvoltage.pdf)
+
 Yellow and black, thick borders, hard shadows. It doesn't look like Moodle.
 
 Voltage is a **child theme of Boost Union**. Every Boost Union setting and

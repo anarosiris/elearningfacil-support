@@ -1,5 +1,7 @@
 # Editorial — Theme for Moodle™ (Boost Union child theme)
 
+**Quick guide (PDF):** [English](QuickGuide_theme_efeditorial_en.pdf) · [Español](GuiaRapida_theme_efeditorial.pdf)
+
 Your campus as a printed magazine: serif type, rules and one spot colour.
 
 Editorial is a **child theme of Boost Union**. Every Boost Union setting and

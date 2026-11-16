@@ -22,7 +22,7 @@ Public issue tracker and documentation for the **commercial plugins and themes f
 | **Training Evidence: Requirements Restriction** — unlocks activities by course requirements (requires `local_efreport`) | `availability_efreq` | [Quick guide](docs/training-evidence-pack/QuickGuide_availability_efreq_en.pdf) · [Spanish quick guide](docs/training-evidence-pack/GuiaRapida_availability_efreq.pdf) |
 | **Training Evidence: My Progress** — free: each student sees their own progress | `block_efprogress` | [English guide](docs/training-evidence-pack/Guide_block_efprogress_en.pdf) · [Spanish guide](docs/training-evidence-pack/Guia_block_efprogress.pdf) |
 
-Commercial plugins: the quick guide is public; the full user guide (PDF) is included in the plugin package.
+Commercial plugins and themes: the quick guide is public; the full user guide is included in the package.
 
 ## Themes covered here
 
@@ -31,11 +31,11 @@ Union setting keeps working; the theme only changes the look.
 
 | Theme | Component | Documentation |
 |---|---|---|
-| **Voltage** — bold, high-contrast, built around the course | `theme_efvoltage` | [Documentation](docs/themes/voltage.md) |
-| **Editorial** — newspaper layout, large type and a red rule | `theme_efeditorial` | [Documentation](docs/themes/editorial.md) |
-| **Arcade** — 8-bit style with pixel accents | `theme_efarcade` | [Documentation](docs/themes/arcade.md) |
-| **Paper** — sticky notes and handwriting on a desk | `theme_efpaper` | [Documentation](docs/themes/paper.md) |
-| **Aurora Cards** — soft gradients and fanned cards | `theme_efauroracards` | [Documentation](docs/themes/aurora-cards.md) |
+| **Voltage** — bold, high-contrast, built around the course | `theme_efvoltage` | [Quick guide](docs/themes/QuickGuide_theme_efvoltage_en.pdf) · [Spanish quick guide](docs/themes/GuiaRapida_theme_efvoltage.pdf) · [Documentation](docs/themes/voltage.md) |
+| **Editorial** — newspaper layout, large type and a red rule | `theme_efeditorial` | [Quick guide](docs/themes/QuickGuide_theme_efeditorial_en.pdf) · [Spanish quick guide](docs/themes/GuiaRapida_theme_efeditorial.pdf) · [Documentation](docs/themes/editorial.md) |
+| **Arcade** — 8-bit style with pixel accents | `theme_efarcade` | [Quick guide](docs/themes/QuickGuide_theme_efarcade_en.pdf) · [Spanish quick guide](docs/themes/GuiaRapida_theme_efarcade.pdf) · [Documentation](docs/themes/arcade.md) |
+| **Paper** — sticky notes and handwriting on a desk | `theme_efpaper` | [Quick guide](docs/themes/QuickGuide_theme_efpaper_en.pdf) · [Spanish quick guide](docs/themes/GuiaRapida_theme_efpaper.pdf) · [Documentation](docs/themes/paper.md) |
+| **Aurora Cards** — soft gradients and fanned cards | `theme_efauroracards` | [Quick guide](docs/themes/QuickGuide_theme_efauroracards_en.pdf) · [Spanish quick guide](docs/themes/GuiaRapida_theme_efauroracards.pdf) · [Documentation](docs/themes/aurora-cards.md) |
 
 ## Before you open an issue
 
@@ -53,7 +53,7 @@ These plugins and themes are free and open source. Each one has its own reposito
 | [Direct SCORM player](https://github.com/anarosiris/moodle-local_efscorm) | Opens SCORM® packages straight away, full screen, with no intermediate page |
 | [Training Evidence: Time Clock](https://github.com/anarosiris/moodle-local_eftimeclock) | Measures each student's active time on course activities |
 | [Training Evidence: My Progress](https://github.com/anarosiris/moodle-block_efprogress) | Shows each student their own progress in the course |
-| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) ([documentation](docs/themes/neon-night.md)) | A true dark theme for Moodle™ (Boost Union child), in black with teal glow |
+| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) ([quick guide](docs/themes/QuickGuide_theme_efneonnight_en.pdf) · [documentation](docs/themes/neon-night.md)) | A true dark theme for Moodle™ (Boost Union child), in black with teal glow |
 
 More at [elearningfacil.com](https://elearningfacil.com).
 
@@ -81,7 +81,7 @@ Tracker público de incidencias y documentación de los **plugins y temas de pag
 | **Seguimiento de la Formación: Restricción por requisitos** — abre actividades según los requisitos del curso (requiere `local_efreport`) | `availability_efreq` | [Guía rápida](docs/training-evidence-pack/GuiaRapida_availability_efreq.pdf) · [Guía rápida en inglés](docs/training-evidence-pack/QuickGuide_availability_efreq_en.pdf) |
 | **Seguimiento de la Formación: Mi progreso** — gratuito: cada estudiante ve su propio progreso | `block_efprogress` | [Guía en español](docs/training-evidence-pack/Guia_block_efprogress.pdf) · [Guía en inglés](docs/training-evidence-pack/Guide_block_efprogress_en.pdf) |
 
-Plugins de pago: la guía rápida es pública; la guía completa (PDF) va dentro del paquete del plugin.
+Plugins y temas de pago: la guía rápida es pública; la guía completa va dentro del paquete.
 
 ### Temas que se atienden aquí
 
@@ -90,11 +90,11 @@ ajustes de Boost Union siguen funcionando; el tema solo cambia el aspecto.
 
 | Tema | Componente | Documentación |
 |---|---|---|
-| **Voltage** — contundente, de alto contraste, centrado en el curso | `theme_efvoltage` | [Documentación (en inglés)](docs/themes/voltage.md) |
-| **Editorial** — maqueta de periódico, letra grande y línea roja | `theme_efeditorial` | README dentro del paquete |
-| **Arcade** — estilo 8 bits con detalles en píxel | `theme_efarcade` | README dentro del paquete |
-| **Paper** — pósits y letra manuscrita sobre un escritorio | `theme_efpaper` | README dentro del paquete |
-| **Aurora Cards** — degradados suaves y tarjetas en abanico | `theme_efauroracards` | README dentro del paquete |
+| **Voltage** — contundente, de alto contraste, centrado en el curso | `theme_efvoltage` | [Guía rápida](docs/themes/GuiaRapida_theme_efvoltage.pdf) · [Guía rápida en inglés](docs/themes/QuickGuide_theme_efvoltage_en.pdf) · [Documentación (en inglés)](docs/themes/voltage.md) |
+| **Editorial** — maqueta de periódico, letra grande y línea roja | `theme_efeditorial` | [Guía rápida](docs/themes/GuiaRapida_theme_efeditorial.pdf) · [Guía rápida en inglés](docs/themes/QuickGuide_theme_efeditorial_en.pdf) · [Documentación (en inglés)](docs/themes/editorial.md) |
+| **Arcade** — estilo 8 bits con detalles en píxel | `theme_efarcade` | [Guía rápida](docs/themes/GuiaRapida_theme_efarcade.pdf) · [Guía rápida en inglés](docs/themes/QuickGuide_theme_efarcade_en.pdf) · [Documentación (en inglés)](docs/themes/arcade.md) |
+| **Paper** — pósits y letra manuscrita sobre un escritorio | `theme_efpaper` | [Guía rápida](docs/themes/GuiaRapida_theme_efpaper.pdf) · [Guía rápida en inglés](docs/themes/QuickGuide_theme_efpaper_en.pdf) · [Documentación (en inglés)](docs/themes/paper.md) |
+| **Aurora Cards** — degradados suaves y tarjetas en abanico | `theme_efauroracards` | [Guía rápida](docs/themes/GuiaRapida_theme_efauroracards.pdf) · [Guía rápida en inglés](docs/themes/QuickGuide_theme_efauroracards_en.pdf) · [Documentación (en inglés)](docs/themes/aurora-cards.md) |
 
 ### Antes de abrir una incidencia
 
@@ -113,7 +113,7 @@ Estos plugins y temas son gratuitos y de código abierto. Cada uno tiene su prop
 | [Reproductor SCORM directo](https://github.com/anarosiris/moodle-local_efscorm) | Abre los paquetes SCORM® directamente, a pantalla completa y sin página intermedia |
 | [Seguimiento de la Formación: Medidor de tiempo](https://github.com/anarosiris/moodle-local_eftimeclock) | Mide el tiempo activo de cada estudiante en las actividades del curso |
 | [Seguimiento de la Formación: Mi progreso](https://github.com/anarosiris/moodle-block_efprogress) | Enseña a cada estudiante su propio progreso en el curso |
-| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) ([documentación](docs/themes/neon-night.md)) | Un tema oscuro de verdad para Moodle™ (hijo de Boost Union), en negro con brillo turquesa |
+| [Neon Night](https://github.com/anarosiris/moodle-theme_efneonnight) ([guía rápida](docs/themes/GuiaRapida_theme_efneonnight.pdf) · [documentación](docs/themes/neon-night.md)) | Un tema oscuro de verdad para Moodle™ (hijo de Boost Union), en negro con brillo turquesa |
 
 Más en [elearningfacil.com](https://elearningfacil.com).
 

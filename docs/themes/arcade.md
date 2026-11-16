@@ -1,5 +1,7 @@
 # Arcade — Theme for Moodle™ (Boost Union child theme)
 
+**Quick guide (PDF):** [English](QuickGuide_theme_efarcade_en.pdf) · [Español](GuiaRapida_theme_efarcade.pdf)
+
 The course as a level-select screen.
 
 Arcade is a **child theme of Boost Union**. Every Boost Union setting and
