@@ -32,10 +32,10 @@ Union setting keeps working; the theme only changes the look.
 | Theme | Component | Documentation |
 |---|---|---|
 | **Voltage** — bold, high-contrast, built around the course | `theme_efvoltage` | [Documentation](docs/themes/voltage.md) |
-| **Editorial** — newspaper layout, large type and a red rule | `theme_efeditorial` | README inside the package |
-| **Arcade** — 8-bit style with pixel accents | `theme_efarcade` | README inside the package |
-| **Paper** — sticky notes and handwriting on a desk | `theme_efpaper` | README inside the package |
-| **Aurora Cards** — soft gradients and fanned cards | `theme_efauroracards` | README inside the package |
+| **Editorial** — newspaper layout, large type and a red rule | `theme_efeditorial` | [Documentation](docs/themes/editorial.md) |
+| **Arcade** — 8-bit style with pixel accents | `theme_efarcade` | [Documentation](docs/themes/arcade.md) |
+| **Paper** — sticky notes and handwriting on a desk | `theme_efpaper` | [Documentation](docs/themes/paper.md) |
+| **Aurora Cards** — soft gradients and fanned cards | `theme_efauroracards` | [Documentation](docs/themes/aurora-cards.md) |
 
 ## Before you open an issue
 

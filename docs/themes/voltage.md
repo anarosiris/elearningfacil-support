@@ -9,9 +9,11 @@ replaces the look.
 
 ## Requirements
 
-- Moodle 5.2 or 5.3.
+- Moodle 5.2 or 5.3 (5.3 verified manually with Boost Union v5.2-r13).
 - [Boost Union](https://moodle.org/plugins/theme_boost_union) for your Moodle
   version (installed; it does not need to be the active theme).
+- Colour modes (experimental in Moodle 5.3): the theme has a single palette and
+  keeps its own colours whatever colour mode the site or the user chooses.
 
 ## Installation
 
@@ -19,7 +21,7 @@ replaces the look.
    it into `public/theme/efvoltage`), then run the upgrade.
 2. Site administration → Appearance → Themes → select **Voltage**.
 3. Configure everything else in Site administration → Appearance → Boost Union,
-   as usual. Leave Boost Union's *brandcolor* empty.
+   as usual. Leave Boost Union's *Brand colour* setting empty.
 
 The fonts (Space Grotesk) are bundled with the theme (SIL Open Font License 1.1, see `fonts/` and `thirdpartylibs.xml`): there is nothing to upload.
 
@@ -30,6 +32,10 @@ Colours and the other design tokens are the variables at the top of
 `!default` can also be overridden for one category or cohort only with a Boost
 Union flavour (Boost Union → Flavours → *Raw initial SCSS*).
 
+## Privacy
+
+The theme stores no personal data and makes no external requests: fonts and images are served from your own site. It implements Moodle's Privacy API with a null provider.
+
 ## Support and issues
 
 Bug reports and feature requests: https://github.com/anarosiris/elearningfacil-support (public issue tracker). Customer support by email, updates and the number of sites covered are described in `COMMERCIAL-LICENCE.txt`. Developed and maintained by eLearning Fácil (https://elearningfacil.com).
@@ -37,3 +43,4 @@ Bug reports and feature requests: https://github.com/anarosiris/elearningfacil-s
 ## Licence
 
 The code is licensed under the GNU GPL v3 or later (see `LICENSE`). The fonts use the SIL Open Font License 1.1 (see `fonts/` and `thirdpartylibs.xml`). See `COMMERCIAL-LICENCE.txt` for what the purchase includes (updates and support).
+
